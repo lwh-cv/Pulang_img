@@ -1,0 +1,59 @@
+<annotation>
+    <folder>moraine_data</folder>
+    <filename>18.jpg</filename>
+    <path>C:\Users\Administrator\Desktop\moraine_data\18.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>4096</width>
+        <height>1856</height>
+        <depth>3</depth>
+    </size>
+    <segmented>1</segmented>
+    <object>
+        <name>ore</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1046.6842105263158</xmin>
+            <ymin>285.89473684210526</ymin>
+            <xmax>1794.0526315789475</xmax>
+            <ymax>1025.3684210526314</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>ore</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>2107.2105263157896</xmin>
+            <ymin>643.7894736842104</ymin>
+            <xmax>2562.4736842105262</xmax>
+            <ymax>977.9999999999998</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>ore</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>254.5789473684211</xmin>
+            <ymin>364.84210526315786</ymin>
+            <xmax>3270.3684210526317</xmax>
+            <ymax>1855.0</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>ore</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1736.157894736842</xmin>
+            <ymin>304.3157894736841</ymin>
+            <xmax>3083.5263157894738</xmax>
+            <ymax>917.4736842105262</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+    <folder>moraine_data</folder>
+    <filename>13.jpg</filename>
+    <path>C:\Users\Administrator\Desktop\moraine_data\13.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>4096</width>
+        <height>1856</height>
+        <depth>3</depth>
+    </size>
+    <segmented>1</segmented>
+    <object>
+        <name>ore</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1.947368421052655</xmin>
+            <ymin>522.7368421052631</ymin>
+            <xmax>3780.8947368421054</xmax>
+            <ymax>1849.0526315789473</ymax>
+        </bndbox>
+    </object>
+</annotation>
